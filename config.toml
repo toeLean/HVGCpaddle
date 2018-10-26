@@ -1,4 +1,4 @@
-baseURL = "https://toelean.github.io/HVGCpaddle"
+baseURL = "https://toelean.github.io/HVGCpaddle/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 title = "Airspace for Hugo"
