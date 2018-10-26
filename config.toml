@@ -31,7 +31,7 @@ name = "Gear"
 url = "/gear"
 weight = 4
 [[menu.header]]
-name = "Results"
+name = "Results/People"
 url = "/results"
 weight = 3
 [[menu.header]]
