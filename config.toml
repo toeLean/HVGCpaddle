@@ -3,45 +3,45 @@ languageCode = "en-us"
 theme = "airspace-hugo"
 title = "Airspace for Hugo"
 [[menu.footer]]
-name = "Contact Us"
+name = "Current Season"
 url = "#"
-weight = 5
-[[menu.footer]]
-name = "Gear"
-url = "#"
-weight = 4
-[[menu.footer]]
-name = "Results"
-url = "#"
-weight = 3
+weight = 1
 [[menu.footer]]
 name = "Blog"
 url = "#"
 weight = 2
 [[menu.footer]]
-name = "Current Season"
+name = "Results"
 url = "#"
+weight = 3
+[[menu.footer]]
+name = "Gear"
+url = "#"
+weight = 4
+[[menu.footer]]
+name = "Contact Us"
+url = "#"
+weight = 5
+[[menu.header]]
+name = "Current Season"
+url = "/2018"
 weight = 1
 [[menu.header]]
-name = "Contact"
-url = "/contact"
-weight = 5
+name = "Blog"
+url = "/blog"
+weight = 2
+[[menu.header]]
+name = "Results"
+url = "/results"
+weight = 3
 [[menu.header]]
 name = "Gear"
 url = "/gear"
 weight = 4
 [[menu.header]]
-name = "Results/People"
-url = "/results"
-weight = 3
-[[menu.header]]
-name = "Blog/News"
-url = "/blog"
-weight = 2
-[[menu.header]]
-name = "Current Season"
-url = "/2018"
-weight = 1
+name = "Contact"
+url = "/contact"
+weight = 5
 [params]
 dateFormat = "6 January 2006"
 home = "Home"
