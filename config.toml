@@ -1,5 +1,5 @@
 title = "Airspace for Hugo"
-baseURL = "http://hopewellvalleypaddle.com"
+baseURL = "https://toelean.github.io/HVGCpaddle"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
